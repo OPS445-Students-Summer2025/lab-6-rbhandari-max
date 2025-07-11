@@ -39,5 +39,5 @@ OPS445 Lab Report - System Information for running ./CheckLab6.py
     Python version: 3123
     OS Platform: linux
     Working Directory: /home/rbhandari17/ops445/lab7/lab-6-rbhandari-max
-    Start at: Fri Jul 11 15:25:37 2025
+    Start at: Fri Jul 11 15:29:38 2025
 =================================================================
